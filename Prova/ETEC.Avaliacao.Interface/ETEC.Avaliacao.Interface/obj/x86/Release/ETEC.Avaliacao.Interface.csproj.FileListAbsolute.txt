@@ -1,0 +1,8 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\ETEC.Avaliacao.Interface\obj\x86\Release\ETEC.Avaliacao.Interface.frmPrincipal.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ETEC.Avaliacao.Interface\obj\x86\Release\ETEC.Avaliacao.Interface.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\ETEC.Avaliacao.Interface\obj\x86\Release\ETEC.Avaliacao.Interface.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\C#\ETEC.Avaliacao.Interface\ETEC.Avaliacao.Interface\obj\x86\Release\ETEC.Avaliacao.Interface.frmCadastroCli.resources
+C:\Users\Aluno\Documents\C#\ETEC.Avaliacao.Interface\ETEC.Avaliacao.Interface\obj\x86\Release\ETEC.Avaliacao.Interface.frmMenuPrincipal.resources
+C:\Users\Aluno\Documents\C#\ETEC.Avaliacao.Interface\ETEC.Avaliacao.Interface\obj\x86\Release\ETEC.Avaliacao.Interface.frmPesquisaCli.resources
+C:\Users\Aluno\Documents\C#\ETEC.Avaliacao.Interface\ETEC.Avaliacao.Interface\obj\x86\Release\ETEC.Avaliacao.Interface.Properties.Resources.resources
+C:\Users\Aluno\Documents\C#\ETEC.Avaliacao.Interface\ETEC.Avaliacao.Interface\obj\x86\Release\ETEC.Avaliacao.Interface.csproj.GenerateResource.Cache
